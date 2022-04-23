@@ -1,0 +1,13 @@
+# GROUP-8-ITS
+This group work. Class activity
+
+
+
+
+Abstraction..........
+
+Polimophism........
+
+Encapsulation......
+
+Inheritance......
