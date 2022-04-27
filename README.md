@@ -2,7 +2,7 @@
     This is group work, (Class activity).
         NOTE: It is difficult to implement four pillars of java in C Programming Langauage.
         This is because four pillars of java can be archived in only OBJECT ORIENTED PROGRAMMING SYSTEM, but C Programming Langauage 
-        is the procidial programming language so it can sapport this pillars of java.
+        is the procidial programming language so it can not sapport this pillars of java.
 
 
                       FOUR PILLARS OF JAVA      
